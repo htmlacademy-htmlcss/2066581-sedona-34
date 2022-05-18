@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Полина(Рия) Штукарь](https://up.htmlacademy.ru/htmlcss/34/user/2066581).
-* Наставник: [Роман Ясель] (https://github.com/yasell).
+* Наставник: [Роман Ясель](https://github.com/yasell).
 
 ---
 
