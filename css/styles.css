@@ -21,6 +21,9 @@ body {
   background-color: #ffffff;
   color: #333333;
 }
+.button {
+
+}
 .main-header {
   color: #000000;
   background-color: #ffffff;
@@ -38,4 +41,22 @@ body {
 }
 .main-index {
   background-image:  url("#")
+}
+
+.advantages-list {
+  text-align: center;
+}
+
+.advantages-title {
+  font-family: "PT Sans";
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.footer-contacts {
+
+}
+
+.contacts-phone {
+
 }
