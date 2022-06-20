@@ -22,7 +22,16 @@ body {
   color: #333333;
 }
 .button {
-
+  font-family: 'PT Sans';
+  background: #756157;
+  border-radius: 4px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
 }
 .main-header {
   color: #000000;
@@ -38,20 +47,43 @@ body {
   color: #000000;
   background-color: #ffffff;
   text-align: center;
+  text-decoration: none;
 }
 .main-index {
-  background-image:  url("#")
+  color: #000000;
+  background-color: #ffffff;
+  background-image:  url("/images/index-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
+.welcome-pic {
+  text-align: center;
 
+}
+.view-mountain {
+  background-image: url(/images/Vector_mountain.png);
+  background-repeat: no-repeat;
+}
 .advantages-list {
   text-align: center;
 }
 
 .advantages-title {
-  font-family: "PT Sans";
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
   font-size: 24px;
   line-height: 28px;
-  text-transform: uppercase;
+  text-align: center;
+}
+.main-footer {
+  color: #000000;
+  background-color: #ffffff;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.main-footer a {
+  color: #000000;
 }
 .footer-contacts {
 
