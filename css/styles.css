@@ -21,6 +21,7 @@ body {
   background-color: #ffffff;
   color: #333333;
 }
+
 .button {
   font-family: 'PT Sans';
   background: #756157;
@@ -33,6 +34,7 @@ body {
   font-size: 16px;
   line-height: 20px;
 }
+
 .main-header {
   color: #000000;
   background-color: #ffffff;
@@ -49,46 +51,141 @@ body {
   text-align: center;
   text-decoration: none;
 }
+
 .main-index {
   color: #000000;
   background-color: #ffffff;
-  background-image:  url("/images/index-background.jpg");
+  background-image: url("/images/index-background.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
+
 .welcome-pic {
   text-align: center;
 
 }
+
 .view-mountain {
   background-image: url(/images/Vector_mountain.png);
   background-repeat: no-repeat;
+  background-size: 100%;
 }
+
+.advantage {
+  width: 1200px;
+  height: 1535px;
+}
+
 .advantages-list {
   text-align: center;
 }
 
 .advantages-title {
-  font-family: "PT Sans", sans-serif;
   font-weight: 700;
   font-size: 24px;
   line-height: 28px;
   text-align: center;
+  text-transform: uppercase;
 }
+
 .main-footer {
   color: #000000;
   background-color: #ffffff;
   font-size: 24px;
   font-weight: 400;
+  text-decoration: none;
 }
 
 .main-footer a {
   color: #000000;
 }
-.footer-contacts {
 
+.footer-contacts {
+  text-align: center;
 }
 
 .contacts-phone {
+  text-decoration: none;
+  text-align: center;
+}
 
+.breadcrumbs {
+  color: #ffffff;
+
+}
+
+.breadcrumbs-link {
+  color: inherit;
+}
+
+.catalog-filter-title {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+/* этого селектора у меня нет*/
+.control-label {
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.sorting-container {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.button-cards {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.product-card {
+  background-color: #ffffff;
+}
+
+.product-card-link {
+  text-decoration: none;
+}
+
+.product-card-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.product-card-price {
+  color: #333333;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.pagination {
+  background-color: #F2F2F2;
+}
+
+.pagination-link {
+  color: #ffffff;
+  background-color: #82B3D3;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 4px;
+}
+
+.pagination-current {
+  color: #000000;
+  background-color: #F2F2F2;
+}
+
+.button-subscribe{
+  background-color: #82B3D3;
+  color: #ffffff;
 }
