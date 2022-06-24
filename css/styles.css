@@ -391,3 +391,7 @@ body {
   text-align: center;
   text-transform: uppercase;
 }
+
+.background-subscribe-pic {
+  width: auto;
+}
