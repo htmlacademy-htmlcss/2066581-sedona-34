@@ -62,7 +62,7 @@ body {
 }
 
 .view-mountain-pic {
-  background-image: url(/images/index-background.jpg);
+  background-image: url(../images/index-background.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
