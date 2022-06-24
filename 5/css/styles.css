@@ -62,7 +62,7 @@ body {
 }
 
 .view-mountain-pic {
-  background-image: url(/images/index-background.jpg);
+  background-image: url(../images/index-background.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
@@ -146,11 +146,6 @@ body {
   line-height: 26px;
 }
 
-/*
-.control-label {
-  font-size: 18px;
-  line-height: 21px;
-} */
 .cost-scan-button {
   font-family: "PT Sans", sans-serif;
   font-style: normal;
@@ -382,7 +377,7 @@ body {
 }
 
 .inner-header {
-  background-image: url(/images/catalog-background\ 1.jpg);
+  background-image: url(../images/catalog-background\ 1.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
