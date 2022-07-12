@@ -149,7 +149,6 @@ header {
 
 .advantages-item {
   display: flex;
-  width: 1200px;
 }
 
 .features-1 {
@@ -306,11 +305,12 @@ header {
   width: 340px;
   list-style: none;
   margin: 0;
-  padding: 20px 207px;
 }
 
 .product-list {
   display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
   width: 1200px;
   height: 1212px;
 }
@@ -333,11 +333,21 @@ header {
   line-height: 21px;
 }
 
+.hotels-card-pagination-wrap {
+  width: 1200px;
+  margin: auto;
+  padding: 70px;
+}
+
 .pagination {
   display: flex;
   justify-content: space-between;
   width: 360px;
   background-color: #F2F2F2;
+}
+
+.pagination-item {
+  list-style: none;
 }
 
 .pagination-link {
@@ -521,11 +531,11 @@ header {
   text-transform: uppercase;
 }
 
-.sorting-hotels-wrap {
+/* .sorting-hotels-wrap {
   display: flex;
   justify-content: space-between;
   width: 1200px;
-}
+} */
 
 .inner-header {
   background-image: url(../images/catalog-background\ 1.jpg);
