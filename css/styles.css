@@ -531,12 +531,6 @@ header {
   text-transform: uppercase;
 }
 
-/* .sorting-hotels-wrap {
-  display: flex;
-  justify-content: space-between;
-  width: 1200px;
-} */
-
 .inner-header {
   background-image: url(../images/catalog-background\ 1.jpg);
   background-repeat: no-repeat;
