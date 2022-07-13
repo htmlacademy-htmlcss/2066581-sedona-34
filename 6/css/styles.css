@@ -219,7 +219,6 @@ header {
 }
 
 .footer-contacts {
-  margin-right: 250px;
   text-align: center;
 }
 
@@ -233,12 +232,6 @@ header {
   text-transform: uppercase;
   text-decoration: none;
 }
-
-.footer-contacts-wrap {
-  max-width: 115px;
-  margin-left: auto;
-}
-
 
 .breadcrumbs {
   color: #ffffff;
